@@ -1,2 +1,3 @@
 - day1: 在qt中使用OpenGL
 - day2: hello rectangle, 在qt中画两个正方形
+- day3: 视频剪辑子控件，拖动矩形顶点拉伸矩阵
