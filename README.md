@@ -9,3 +9,4 @@
 - day9: uv坐标变换，贴图动画
 - day10: 多重纹理，需要opengl扩展glew.h
 - day11: 使用显示列表，优化
+- day12: 使用vbo
