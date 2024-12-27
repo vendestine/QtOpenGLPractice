@@ -17,4 +17,5 @@ QT中使用QOpengGLWidget QOpenGLFunctions QT5中默认使用opengl2.1版本
 
 ## part2 opengl shader编程
 QT使用QOpenGLWidget QOpenglFunctions QT5中默认使用opengl2.1版本
-- day14: opengl2.1使用标准shader编程
+- day14: 使用opengl的原生shader API
+- day15: 使用QT封装的shader API
